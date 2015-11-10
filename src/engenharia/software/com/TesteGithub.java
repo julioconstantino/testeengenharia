@@ -5,6 +5,7 @@ public class TesteGithub {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      System.out.println("Teste GitHub");
+     System.out.println("Ta e doido kkkkk");
 	}
 
 }
